@@ -81,11 +81,3 @@ The application uses the following key data structures:
 ## Author
 
 Sunil Kumar P
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests for any improvements. For major changes, please open an issue first to discuss what you would like to change.
